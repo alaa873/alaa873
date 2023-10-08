@@ -55,6 +55,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alaa873/alaa873/output/snake.svg" alt="Snake animation" />
-
-###
